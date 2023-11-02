@@ -1,0 +1,16 @@
+{
+  "name": "news-app",
+  "version": "1.0.0",
+  "description": "News app",
+  "source": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel --open"
+  },
+  "keywords": [],
+  "author": "Ezra",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.10.2"
+  }
+}
